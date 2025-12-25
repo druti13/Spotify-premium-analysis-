@@ -1,0 +1,27 @@
+
+╔═══════════════════════════════════════════════════════════════════╗
+║              POWER BI CONNECTION DETAILS                          ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+  SERVER INFORMATION:
+    • Server:   localhost
+    • Port:     5432
+    • Database: spotify_db
+    • Table:    spotify_users
+    • User:     postgres
+
+  POWER BI STEPS:
+    1. Open Power BI Desktop
+    2. Click "Get Data"
+    3. Search for "PostgreSQL database"
+    4. Click "Connect"
+    5. Enter:
+       - Server: localhost
+       - Database: spotify_db
+    6. Choose "Database" authentication
+    7. Enter username and password
+    8. Select table: spotify_users
+    9. Click "Load"
+
+  ALTERNATIVE: Use this connection string in Power BI:
+    Host=localhost;Port=5432;Database=spotify_db

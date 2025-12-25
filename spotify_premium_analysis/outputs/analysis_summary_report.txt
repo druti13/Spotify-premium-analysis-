@@ -1,0 +1,40 @@
+
+# SPOTIFY PREMIUM ADOPTION ANALYSIS - SUMMARY REPORT
+Generated: 2025-12-24 21:52:46
+
+## DATASET OVERVIEW
+- Total Users: 519
+- Premium Users: 0 (0.0%)
+- Free Users: 519 (100.0%)
+- Premium Willingness: 186 (35.8%)
+
+## TOP INSIGHTS
+
+### 1. Demographics
+- Best Age Group: 12-20 with 49.3% willingness
+- Gender Distribution: Female: 390, Male: 114, Others: 15
+
+### 2. Content Preferences
+- Top Content Type: Podcast
+- Most Popular Genre: Melody
+- Podcast Listeners: 189 (36.4%)
+
+### 3. User Segments
+- Highest Converting: Casual Users (46.6%)
+- Largest Segment: Music-Only Users (330 users)
+
+### 4. Key Drivers
+- Satisfaction Impact: +-8.3pp for 4+ ratings
+- Engagement Impact: Daily listeners show higher willingness
+
+## RECOMMENDATIONS
+1. Target Casual Users segment with personalized offers
+2. Improve recommendation engine to increase 4+ ratings
+3. Expand content in top-performing genres
+4. Develop device-specific features for Computer or laptop, Wearable devices users
+5. Create conversion campaigns for high-engagement free users
+
+## CONVERSION POTENTIAL
+- Immediate Opportunity: 186 users
+- Estimated Revenue Impact: $1858.14/month (assuming $9.99/user)
+- Annual Revenue Potential: $22,297.68

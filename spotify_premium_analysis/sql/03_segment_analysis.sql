@@ -1,0 +1,1 @@
+select* from spotify_users;
